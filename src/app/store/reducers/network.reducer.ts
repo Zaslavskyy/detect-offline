@@ -5,7 +5,7 @@ export interface State {
 }
 
 export const initialState: State = {
-  isOnline: true
+  isOnline: navigator.onLine
 };
 
 export function reducer(
