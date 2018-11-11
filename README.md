@@ -1,2 +1,3 @@
-# detect-offline
-A way to detect whether the website if online or offline using NgRx
+# DetectOffline
+
+A way to detect that your website is online or offline using NgRx.
